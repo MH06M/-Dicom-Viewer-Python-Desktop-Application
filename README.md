@@ -33,7 +33,7 @@ We had the chance to develop a medical imaging analysis platform in just two wee
 - Muhammad Nasser
 
 ## 🧾 License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Jiro75/Dicom-Viewer/blob/2ff0005422b92e2232c5e13add46a05111ec1759/LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MH06M/-Dicom-Viewer-Python-Desktop-Application/blob/main/LICENSE) for details.
 
 ## 📞 Contact
 Email: mostafahany748@gmail.com <br>
