@@ -26,7 +26,7 @@ We had the chance to develop a medical imaging analysis platform in just two wee
   </div>
 </div>
 
-## Project Video
+## 📹Project Video
 
 
 https://github.com/user-attachments/assets/6f448d08-2793-4b55-adf0-b9550220188d
