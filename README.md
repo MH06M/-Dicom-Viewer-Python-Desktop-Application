@@ -26,8 +26,9 @@ We had the chance to develop a medical imaging analysis platform in just two wee
   </div>
 </div>
 
-## 🦸‍♂️ Contributors
+## 🦸‍♂️ Team
 - Mostafa Hany
+- Moustafa Ali
 - Mostafa Hazem
 - Muhammad Nasser
 
